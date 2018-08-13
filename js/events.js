@@ -17,7 +17,9 @@ function pressIt() {
 }
 
 function submitIt() {
-  
+  $('').on('', function() {
+    
+  });
 }
 
 $(document).ready(function(){
