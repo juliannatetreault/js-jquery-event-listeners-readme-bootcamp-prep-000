@@ -1,5 +1,7 @@
 function getIt() {
-  $('p').on("click")
+  $('p').on("click", function() {
+    
+  }
 }
 
 function frameIt() {
