@@ -11,7 +11,7 @@ function frameIt() {
 }
 
 function pressIt() {
-  $('').on('keydown', function() {
+  $('input').on('keydown', function() {
     
   });
 }
