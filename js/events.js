@@ -1,15 +1,29 @@
 //define functions here
 
-function getIt()
+function getIt() {
+  
+}
 
-function frameIt()
+function frameIt() {
+  
+}
 
-function pressIt()
+function pressIt() {
+  
+}
 
-function submitIt()
+function submitIt() {
+  
+}
 
 $(document).ready(function(){
 
-// call functions here
+getIt();
+
+frameIt();
+
+pressIt();
+
+submitIt();
 
 });
